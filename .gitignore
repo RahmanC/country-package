@@ -2,5 +2,5 @@
 dist
 # dependencies
 /node_modules
-rhammy-countries*.tgz
+get-countries-data*.tgz
 .DS_Store
