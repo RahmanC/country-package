@@ -1,0 +1,6 @@
+.vscode
+dist
+# dependencies
+/node_modules
+rhammy-countries*.tgz
+.DS_Store
